@@ -1,0 +1,12 @@
+list1 = [12,45,7,23,89]
+print("Original list : ",list1)
+Max = max(list1)
+print("Maximum value of list1 : ",Max)
+Min = min(list1)
+print("Minimum value of list1 : ",Min)
+Sum = sum(list1)
+print("Sum of list1 :",Sum)
+length = len(list1)
+print("Length of list1 : ",length)
+Sort = sorted(list1)
+print("Sorted list : ",Sort)

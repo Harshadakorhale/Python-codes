@@ -1,3 +1,11 @@
+# 2. The given list numbers = [5, -3, 12, 0, -7, 8] Perform the following using built-in 
+#    functions:  
+#           Find length 
+#           Sum of all elements 
+#           Maximum and minimum values 
+#           Sorted list (ascending and descending) 
+#           Absolute value of all elements 
+
 list1 = [5,-3,12,0,-7,8]
 print("The length of list is :",len(list1))
 Sum = sum(list1)

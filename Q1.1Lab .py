@@ -1,3 +1,6 @@
+# 1. Write a program to perform addition, subtraction, multiplication, and division of
+#     two numbers entered by the user. 
+
 # Arithmatic operators
 print("Arithmatic operators :---")
 a = 10
@@ -14,8 +17,8 @@ print(mul)
 print(div)
 print(square)
 print(mod)
-print("Relational operator")
 # relational operators
+print("Relational operator")
 less = a < b
 greater = a > b
 greater_equal = a >= b
@@ -28,25 +31,25 @@ print(greater_equal)
 print(less_equal)
 print(equal)
 print(not_equal)
-print("Logical operator")
 # Logical operators
+print("Logical operator")
 andoperator = a & b
 oroperator = a | b
 xoroperator = a ^ b
 print(andoperator)
 print(oroperator)
 print(xoroperator)
-print("Bitwise operator")
 # Bitwise operator
+print("Bitwise operator")
 bitwiseoperator = a ^ b
 bitwiseandoperator = a & b
 bitwiseoroperator = a | b
 bitwisexoroperator = a ^ b
-print(andoperator)
-print(oroperator)
-print(xoroperator)
-print("Assignment operator")
+print(bitwiseoperator)
+print(bitwiseandoperator)
+print(bitwisexoroperator)
 # Assignment operator
+print("Assignment operator")
 assignment = 10000
 print(assignment)
 

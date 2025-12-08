@@ -1,6 +1,8 @@
-#Question 3
+# 3. Write a program to perform different operations on strings (concatenation, slicing,  
+#     repetition). 
+
 Str_1 = "Harshada"
-Str_2 = "Akshata"
+Str_2 = "Korhale"
 print(Str_1[:2])
 print(Str_1[:])
 print("Concatanation of string")

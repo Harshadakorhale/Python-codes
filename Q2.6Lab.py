@@ -1,3 +1,6 @@
+# 6. Write a Python program using a list numbers = [12, 45, 7, 23, 89] to demonstrate 
+#    built-in functions like max(), min(), sum(), len(), and sorted(). 
+
 list1 = [12,45,7,23,89]
 print("Original list : ",list1)
 Max = max(list1)

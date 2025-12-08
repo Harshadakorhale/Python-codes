@@ -1,3 +1,6 @@
+# 6. Write a program to demonstrate list operations (append, insert, remove, pop, sort, 
+#    reverse). 
+
 list_1 = [1,2,3,4,5]
 print("after adding element in list")
 list_1.append(6)

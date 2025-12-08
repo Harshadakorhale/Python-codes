@@ -1,3 +1,5 @@
+# 9. Write a program to find the sum of digits of a number using while loop. 
+
 number = 111
 sum_digits = 0
 

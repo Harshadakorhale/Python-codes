@@ -1,0 +1,5 @@
+val = input("Enter the statement you want to write")
+a = open("a.txt","w")
+b = a.write(val)
+print(val)
+a.close()

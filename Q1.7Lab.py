@@ -1,7 +1,9 @@
-number = 50
-if number < 0 :
+# 7. Write a program to check whether a number is positive, negative, or zero. 
+
+num = 50
+if num < 0 :
     print("Number is negative")
-elif number > 0 :
+elif num > 0 :
     print("Number is positive")
-elif number == 0 :
+elif num == 0 :
     print("Number is zero")

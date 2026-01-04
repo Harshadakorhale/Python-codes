@@ -1,6 +1,6 @@
 #Class method is belongs to class rather than object 
 #cls keyword is used
-#class method is used to acced class variable and modify
+#class method is used to access class variable and modify
 #Syntax - @classmethod
 
 # class A:

@@ -41,12 +41,11 @@ print(oroperator)
 print(xoroperator)
 # Bitwise operator
 print("Bitwise operator")
-bitwiseoperator = a ^ b
 bitwiseandoperator = a & b
 bitwiseoroperator = a | b
 bitwisexoroperator = a ^ b
-print(bitwiseoperator)
 print(bitwiseandoperator)
+print(bitwiseoroperator)
 print(bitwisexoroperator)
 # Assignment operator
 print("Assignment operator")
